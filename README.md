@@ -2,7 +2,7 @@
 
 ![Laboratório de Programação](https://img1.gratispng.com/20180405/efq/kisspng-the-c-programming-language-computer-programming-co-programmer-5ac6bd82da8a81.2143761315229740828952.jpg)
 
-Bem-vindo ao repositório de códigos em C da disciplina de Laboratório de Programação na UNINORTE - Centro Universitário do Norte, referentes ao ano de 2015. Estes códigos foram desenvolvidos durante o 3º período da faculdade.
+Bem-vindo ao repositório de códigos em C da disciplina de Laboratório de Programação ministrada pelo professor Camilo Souza na UNINORTE - Centro Universitário do Norte, referentes ao ano de 2015. Estes códigos foram desenvolvidos durante o 3º período da faculdade.
 
 ## Conteúdos:
 
